@@ -1,0 +1,21 @@
+default_agent = "opencode"
+fullscreen_on_enter = false
+
+[agents]
+
+[worktree]
+enabled = true
+auto_cleanup = true
+base_branch = ""
+worktree_dir = ".agtx/worktrees"
+
+[theme]
+color_selected = "#ead49a"
+color_normal = "#5cfff7"
+color_dimmed = "#9C9991"
+color_text = "#f2ece6"
+color_accent = "#5cfff7"
+color_description = "#C4B0AC"
+color_column_header = "#a0d2fa"
+color_popup_border = "#9ffcf8"
+color_popup_header = "#69fae7"
